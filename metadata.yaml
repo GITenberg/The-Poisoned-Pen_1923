@@ -1,5 +1,5 @@
 _repo: The-Poisoned-Pen_1923
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,6 +27,7 @@ subjects:
 - !lcsh 'United States -- Social life and customs -- 20th century -- Fiction'
 - !lcsh 'Short stories'
 - !lcc 'PS'
+- GITenberg
 tableOfContents: The poisoned pen -- The yeggman -- The germ of death -- The firebug
   -- The confidence king -- The sand-hog -- The white slave -- The forger -- The unofficial
   spy -- The smuggler -- The invisible ray -- The campaign grafter.
